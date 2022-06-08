@@ -1,0 +1,8 @@
+C:\Users\rashm\source\repos\QA\PROG8170-Assignment02\Assignment02\Assignment02\bin\Debug\Assignment02.exe.config
+C:\Users\rashm\source\repos\QA\PROG8170-Assignment02\Assignment02\Assignment02\bin\Debug\Assignment02.exe
+C:\Users\rashm\source\repos\QA\PROG8170-Assignment02\Assignment02\Assignment02\bin\Debug\Assignment02.pdb
+C:\Users\rashm\source\repos\QA\PROG8170-Assignment02\Assignment02\Assignment02\obj\Debug\Assignment02.csproj.AssemblyReference.cache
+C:\Users\rashm\source\repos\QA\PROG8170-Assignment02\Assignment02\Assignment02\obj\Debug\Assignment02.csproj.SuggestedBindingRedirects.cache
+C:\Users\rashm\source\repos\QA\PROG8170-Assignment02\Assignment02\Assignment02\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\rashm\source\repos\QA\PROG8170-Assignment02\Assignment02\Assignment02\obj\Debug\Assignment02.exe
+C:\Users\rashm\source\repos\QA\PROG8170-Assignment02\Assignment02\Assignment02\obj\Debug\Assignment02.pdb
